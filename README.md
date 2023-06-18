@@ -1,7 +1,7 @@
 # WeatherUI 天氣查詢網頁
 
 ## DEMO
-網頁預覽： [DEMO](https://weather-15814.web.app/)
+網頁預覽： [DEMO](https://yhes9604.github.io/WeatherUI/)
 
 ## 使用技術
 * 串連Weather Api 
