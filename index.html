@@ -12,11 +12,15 @@
     
     <script>
       function setElementHeight() {
+        
         var windowHeight = window.innerHeight;
         var element = document.getElementById("app");
         element.style.height = windowHeight + "px";
+      
       }
 
+
+      
       setElementHeight();
 
       window.addEventListener("resize", setElementHeight);
